@@ -4,7 +4,7 @@ An experienced Frontend Developer working with enterprise level applications.
 I have a strong background in design and a passion for exploring creative media.
 
 
-  <summary>Let's connect 🤝</summary>
+<b>Let's connect 🤝</b>
 
 [//]: # (| <a align="center" href="https://twitter.com/evengene"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @evengene</a> | <a href="https://discord.com/users/441955841260912650"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> Piyush Suthar#4113</a> )
 
