@@ -3,7 +3,7 @@
 An experienced Frontend Developer working with enterprise level applications.
 I have a strong background in design and a passion for exploring creative media.
 
-<details>
+
   <summary>Let's connect 🤝</summary>
 
 [//]: # (| <a align="center" href="https://twitter.com/evengene"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @evengene</a> | <a href="https://discord.com/users/441955841260912650"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> Piyush Suthar#4113</a> )
@@ -22,38 +22,31 @@ I have a strong background in design and a passion for exploring creative media.
 
 - Email: [elina.frontenddev@gmail.com](mailto:elina.frontenddev@gmail.com)
 - LinkedIn: [Elina Shelest](https://www.linkedin.com/in/ltp1120/)
-- Twitter: [@evengene](https://twitter.com/evengene)
+- Twitter: [@elygills](https://twitter.com/elygills)
 
- </details>
-
-
-<details>
-    <summary>GitHub Stats 📈</summary>
 
 <table>
   <tbody>
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=evengene">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com?user=evengene&hide_border=true&mode=weekly&hide_current_streak=true&hide_longest_streak=true">
+          <img width="600" src="https://github-readme-streak-stats.herokuapp.com?user=evengene&hide_border=true&mode=weekly&hide_current_streak=true&hide_longest_streak=true">
         </a>
       </td>
     </tr>
   </tbody>
+</table>
+
+<details>
+    <summary>GitHub Stats 📈</summary>
+
+<table>
+
   <tbody>
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evengene">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evengene&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=evengene">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=evengene&theme=dracula">
+          <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evengene&theme=dracula"/>
         </a>
       </td>
     </tr>
@@ -90,14 +83,7 @@ I have a strong background in design and a passion for exploring creative media.
     </tr>
   </tbody>
 </table>
-
-
 </details>
-<details>
-  <summary>A Quote from a random Developer 📃</summary>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
-  </details>
 
 <div>
 <img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" title="ReactJS" height="25"/> &nbsp;
@@ -119,3 +105,9 @@ I have a strong background in design and a passion for exploring creative media.
 <img src="https://img.shields.io/badge/Material%20UI-282C34?logo=material-ui&logoColor=0081CB" title="Material UI" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Formik-282C34?logo=formik&logoColor=161E2E" title="Formik" height="25"/> &nbsp;
 </div>
+
+<details>
+  <summary>A Quote from a random Developer 📃</summary>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+</details>
