@@ -5,8 +5,8 @@ I have a strong background in design and a passion for exploring creative media.
 
 #### 🌱 Currently working on:
 
-- **[Yacht Valley](https://www.yachtalley.com//)**: A platform for buying and selling boats.
-- Personal Portfolio [wip]
+- **[Mindful Works](https://mindful-works.org/)**: A non-profit organization dedicated to helping people overcome mental health challenges.
+- [Personal Portfolio ](https://elinashelest.com/) 
 
 #### 🚀 Previously worked on:
 - **[SuperWorld](https://map.superworldapp.com/map/)**: An AR Real marketplace build with web3.
@@ -29,7 +29,6 @@ I have a strong background in design and a passion for exploring creative media.
 
 - Email: [elina.frontenddev@gmail.com](mailto:elina.frontenddev@gmail.com)
 - LinkedIn: [Elina Shelest](https://www.linkedin.com/in/ltp1120/)
-- Twitter: [@elygills](https://twitter.com/elygills)
 
 <table>
   <tbody>
